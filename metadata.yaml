@@ -1,0 +1,38 @@
+_repo: Ramsey-Milholland_2595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: The old man and the little boy, his grandson, sat together in the shade
+  of the big walnut tree in the front yard, watching the "Decoration Day Parade,"
+  as it passed up the long street; and when the last of the veterans was out of sight
+  the grandfather murmured the words of the tune that came drifting back from the
+  now distant band at the head of the procession. "Yes, we'll all feel gay when Johnnie
+  comes marching home again," he finished, with a musing chuckle. "Did you, Grandpa?"
+  the boy asked. "Did I what?
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'World War, 1914-1918 -- United States -- Fiction'
+- GITenberg
+title: Ramsey Milholland
+url: http://www.gutenberg.org/ebooks/2595
