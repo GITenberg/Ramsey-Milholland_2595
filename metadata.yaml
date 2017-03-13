@@ -1,5 +1,8 @@
 _repo: Ramsey-Milholland_2595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -19,6 +22,8 @@ description: The old man and the little boy, his grandson, sat together in the s
   now distant band at the head of the procession. "Yes, we'll all feel gay when Johnnie
   comes marching home again," he finished, with a musing chuckle. "Did you, Grandpa?"
   the boy asked. "Did I what?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2595#Ramsey-Milholland
 gutenberg_issued: '2006-03-22'
 gutenberg_type: Text
 identifiers:
